@@ -11,7 +11,7 @@ install:
 - ls -l
 - docker build --build-arg JAR_FILE=/target/project.jar -t coca1719/project234-backend  .
 - docker push coca1719/project234-backend
-- docker pull coca1719/project234-frontend
+- docker pull dto80/project234-frontend
 script:
 - docker-compose -H "$DOCKER_HOST" up -d
 cache:
