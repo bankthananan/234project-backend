@@ -1,0 +1,10 @@
+version: '3.3'
+services:
+  backend:
+    image: coca1719/project234-backend:latest
+    ports:
+      - "9002:8080"
+  frontend:
+    image: dto80/project234-frontend:latest
+    ports:
+      - "9001:80"
