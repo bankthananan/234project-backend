@@ -16,7 +16,7 @@ import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
 import junitparams.naming.TestCaseName;
 
-@RunWith(JUnitParamsRunner.class)
+
 public class AuthenticationServiceTest {
     UserDao userDao;
     AuthenticationServiceImpl authenticationService;
