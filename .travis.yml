@@ -13,7 +13,7 @@ install:
 - docker push coca1719/project234-backend
 - docker pull dto80/project234-frontend
 script:
-- docker-compose -H "$DOCKER_HOST" up -d
+- docker-compose -H tcp://54.191.206.59:8025 up -d
 cache:
  directories:
   - "$HOME/.m2"
