@@ -34,17 +34,17 @@ WebUI.click(findTestObject('For admin role/a_Total Transaction'))
 
 WebUI.click(findTestObject('For admin role/td_1'))
 
-WebUI.click(findTestObject('For admin role/td_Garden Papaya'))
+WebUI.click(findTestObject('For admin role/td_2ndItemName'))
 
-WebUI.click(findTestObject('For admin role/td_20120 THB'))
+WebUI.click(findTestObject('For admin role/td_1stItem'))
 
 WebUI.click(findTestObject('For admin role/td_2'))
 
-WebUI.click(findTestObject('For admin role/td_Banana Garden Banana Rambut'))
+WebUI.click(findTestObject('For admin role/td_1stItemName'))
 
-WebUI.click(findTestObject('For admin role/td_60570 THB'))
+WebUI.click(findTestObject('For admin role/td_2ndItem'))
 
-WebUI.click(findTestObject('For admin role/p_Total price  80690 THB'))
+WebUI.click(findTestObject('For admin role/p_Total price'))
 
 WebUI.closeBrowser()
 
