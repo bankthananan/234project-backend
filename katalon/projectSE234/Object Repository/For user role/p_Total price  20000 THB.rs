@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Total price</name>
+   <name>p_Total price  20000 THB</name>
    <tag></tag>
-   <elementGuidId>28b4cc14-f29f-4f26-9b4c-1ec37983e5bb</elementGuidId>
-   <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Total price:  80,690 THB' or . = 'Total price:  80,690 THB')]</value>
-      </entry>
-   </selectorCollection>
+   <elementGuidId>f455e6d7-29d7-48cc-a2d5-04d7fc2bd71b</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
@@ -24,7 +18,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Total price:  80,690 THB</value>
+      <value>Total price:  20,000 THB</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

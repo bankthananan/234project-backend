@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Total Transaction</name>
+   <name>a_Carts            1</name>
    <tag></tag>
-   <elementGuidId>20fb0c23-3ad0-4bf2-a5fa-9a1e126ca3e3</elementGuidId>
-   <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Total Transaction' or . = 'Total Transaction')]</value>
-      </entry>
-   </selectorCollection>
+   <elementGuidId>07157ed4-df3b-42b5-9c65-f2a76aa71b4b</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
@@ -31,28 +25,30 @@
       <matchCondition>equals</matchCondition>
       <name>routerlink</name>
       <type>Main</type>
-      <value>/total</value>
+      <value>/cart</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ng-reflect-router-link</name>
       <type>Main</type>
-      <value>/total</value>
+      <value>/cart</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/total</value>
+      <value>/cart</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Total Transaction</value>
+      <value>Carts
+            1
+          </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

@@ -3,17 +3,11 @@
    <description></description>
    <name>button_Login</name>
    <tag></tag>
-   <elementGuidId>0494da26-5d08-4bf0-bf33-773bf8fecef1</elementGuidId>
-   <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Login' or . = 'Login')]</value>
-      </entry>
-   </selectorCollection>
+   <elementGuidId>e6d25600-3ba0-4788-98d5-482b2a017bd6</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
@@ -38,6 +32,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/app-login[1]/div[@class=&quot;col-md-6 col-md-offset-3&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <value>/html[1]/body[1]/app-root[1]/app-login[1]/div[@class=&quot;col-md-6 col-md-offset-3&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

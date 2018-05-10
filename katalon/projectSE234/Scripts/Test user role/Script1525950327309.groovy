@@ -24,13 +24,27 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://54.191.206.59:9001/')
 
-WebUI.setText(findTestObject('For worng login/Page_ProjectBackend/input_username'), 'asdsadasd')
+WebUI.setText(findTestObject('For user role/input_username'), 'user')
 
-WebUI.setText(findTestObject('For worng login/Page_ProjectBackend/input_password'), 'zxczxcsad')
+WebUI.setText(findTestObject('For user role/input_password'), 'user')
 
-WebUI.click(findTestObject('For worng login/Page_ProjectBackend/button_Login'))
+WebUI.click(findTestObject('For user role/button_Login'))
 
-WebUI.verifyElementText(findTestObject('For worng login/Page_ProjectBackend/label_Usernamepassword is inco'), 'Username/password is incorrect')
+WebUI.click(findTestObject('For user role/h5_Garden'))
+
+WebUI.click(findTestObject('For user role/h6_Price is 20000.00 THB'))
+
+WebUI.click(findTestObject('For user role/button_add to cart'))
+
+WebUI.click(findTestObject('For user role/a_Carts            1'))
+
+WebUI.click(findTestObject('For user role/p_Total price  20000 THB'))
+
+WebUI.click(findTestObject('For user role/button_confirm'))
+
+WebUI.click(findTestObject('For user role/html_ProjectBackend      chars'))
+
+WebUI.click(findTestObject('For user role/button_Logout'))
 
 WebUI.closeBrowser()
 

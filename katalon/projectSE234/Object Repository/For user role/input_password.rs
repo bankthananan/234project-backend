@@ -1,64 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Total Transaction</name>
+   <name>input_password</name>
    <tag></tag>
-   <elementGuidId>20fb0c23-3ad0-4bf2-a5fa-9a1e126ca3e3</elementGuidId>
-   <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Total Transaction' or . = 'Total Transaction')]</value>
-      </entry>
-   </selectorCollection>
+   <elementGuidId>6f939277-9acd-425a-8767-4caf2a8717f6</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
+      <value>input</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-link</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>routerlink</name>
-      <type>Main</type>
-      <value>/total</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ng-reflect-router-link</name>
-      <type>Main</type>
-      <value>/total</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/total</value>
+      <value>form-control ng-untouched ng-dirty ng-valid</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>name</name>
       <type>Main</type>
-      <value>Total Transaction</value>
+      <value>password</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-klass</name>
+      <type>Main</type>
+      <value>form-control</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>password</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-model</name>
+      <type>Main</type>
+      <value>u</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav mr-auto&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <value>/html[1]/body[1]/app-root[1]/app-login[1]/div[@class=&quot;col-md-6 col-md-offset-3&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control ng-untouched ng-dirty ng-valid&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
