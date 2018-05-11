@@ -8,7 +8,7 @@ Member : Thananan Asanthia 592115016
 
 
 
-E-mail : thananan_asanthia@cmmu.ac.th
+E-mail : thananan_asanthia@cmu.ac.th
 
 
 
